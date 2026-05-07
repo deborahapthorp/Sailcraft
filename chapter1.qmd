@@ -1,6 +1,6 @@
-# “The sliding keels that took advantage” - the dawn of the racing centreboarder
+# "The sliding keels that took advantage" - the dawn of the racing centreboarder {sec-chapter1}
 
-![A model of Peggy of Castletown – the victor in the first known race involving open centreboard boats.](images/peggymodel.jpg)
+![A model of Peggy of Castletown – the victor in the first known race involving open centreboard boats.](images/chapter1/peggymodel.jpg)
 
 Like all good sea stories, the history of the racing dinghy starts with smugglers, a fortune, a struggle for the hand of a maiden, cannons, islands, and a mutiny. The man who brought them all together was John Christian of the Isle of Man and England’s Lake District – the man who organised what seems to have been the first race for small centreboard boats.
 
@@ -13,16 +13,16 @@ Two years after he launched Margaret, John Christian married his cousin and ward
 And what of Curwen’s cousin Fletcher, the man who may have been his rival for Isabelle’s affections? It’s said that he went away to sea to ease his broken heart, and on April 28 1789, the unhappy Fletcher Christian sparked one of history’s greatest small-boat voyages when he led the mutiny against his commander, Captain William Bligh of the HMS Bounty, and set him adrift in the ship’s launch – a boat that, save for her transom stern, looks to be similar in style to Margaret.
 
 ::: {#fig-curwenquayle layout-ncol="2"}
-![Quayle](images/georgequayle.png){#fig-quayle}
+![Quayle](images/chapter1/georgequayle.png){#fig-quayle}
 
-![Curwen](images/jcurwen2.png){#fig-curwen}
+![Curwen](images/chapter1/jcurwen2.png){#fig-curwen}
 
 George Quayle (left) and John Christian Curwen (right); two brilliant men and rivals in the world’s first known race with open centreboarders.
 :::
 
 John Christian Curwen never achieved Fletcher’s fame, but he settled down to a distinguished life of radical politics, social and agricultural reform, field sports and sailing. In 1796, he entered into a challenge with his relative George Quayle, a merchant, inventor, ship-owner, banker, and politician from Douglas on the Isle of Man in the Irish Sea. Seven years earlier, Quayle had launched the 26’5″/7.77m long open schooner Peggy. Peggy was used for transportation and as a workboat for Quayle’s business (with perhaps some smuggling on the side) but Quayle’s letters show that she was also a pleasure boat and a joy to him.
 
-![One of the Castletown One Designs sails down the tiny Castletown Harbour, past Quayle’s ‘Bridge House’ – the large grey building in the centre. The white sign on the right-hand end of the house marks the boatshed where Peggy was kept. Photo from Isle of Man Film](images/red-sails.png)
+![One of the Castletown One Designs sails down the tiny Castletown Harbour, past Quayle’s ‘Bridge House’ – the large grey building in the centre. The white sign on the right-hand end of the house marks the boatshed where Peggy was kept. Photo from Isle of Man Film](images/chapter1/red-sails.png)
 
 As the noted Irish yachting journalist W M Nixon noted in an excellent article in Wooden Boat magazine, Quayle’s Peggy seems to be a much more advanced design than Curwen’s craft.[^chapter1-2] A rakish-looking boat with fine lines by the standards of the time, she carried a powerful schooner rig. She was constructed with clinker or lapstrake planking, which is normally lighter than the normal carvel hull used by boats like Margaret.
 
@@ -48,7 +48,7 @@ Top: The first “centreboarder”, Schank’s “sliding keel” boat of 1775. 
 
 The Royal Navy, although understandably distracted by wars with the USA and France, launched three experimental ships by 1796, and later followed her up with several classes of “sliding keel” brigs. The Navy’s enthusiasm for sliding keels seems to have faded when experience with vessels like the brig HMS Lady Nelson proved that 18th century technology was not up to the task of making a large centreboard that would not break, and that a ship with a broken “sliding keel” was even slower upwind than a normal square rigger. It was a classic demonstration of the fact that innovation in design is inextricably linked with material technology.
 
-![Like most craft of her time, Peggy had a full bow and narrow stern – the so-called “cod’s head and mackeral’s tail” shape. Boatbuilders of the time placed great emphasis on having fine lines at the stern to reduce drag. The full and very buoyant bows were used to allow the heavy boats of the day to lift their bows over the steep and choppy waves around England. As warship designer and historian DK Brown notes, craft of the day also had poor longitudinal structural stiffness, so heavy weights (like anchors in the bow) had to be supported by flotation directly underneath, to stop the hull from bending. Compared to many other boats of her day, though, Peggy’s lines seem narrow by the standards of her day. Although her bows are bluff at gunwale level, they are quite fine down at water level. Note the tiny cannon that Peggy carried to ward of privateers (and perhaps other smugglers). That’s one way to ensure you get buoy room!](images/peggy08.jpg)
+![Like most craft of her time, Peggy had a full bow and narrow stern – the so-called “cod’s head and mackeral’s tail” shape. Boatbuilders of the time placed great emphasis on having fine lines at the stern to reduce drag. The full and very buoyant bows were used to allow the heavy boats of the day to lift their bows over the steep and choppy waves around England. As warship designer and historian DK Brown notes, craft of the day also had poor longitudinal structural stiffness, so heavy weights (like anchors in the bow) had to be supported by flotation directly underneath, to stop the hull from bending. Compared to many other boats of her day, though, Peggy’s lines seem narrow by the standards of her day. Although her bows are bluff at gunwale level, they are quite fine down at water level. Note the tiny cannon that Peggy carried to ward of privateers (and perhaps other smugglers). That’s one way to ensure you get buoy room!](images/chapter1/peggy08.jpg)
 
 Quayle had no such problems with his little schooner, which had centreboards of iron plate. After receiving the challenge from Curwen, Quayle mounted the tiny swivel cannons that a gentleman’s toy needed to survive in an Irish Sea where French privateers were still active, and headed across the Irish Sea with two other Manx boats. They sailed up the River Crake and were placed on carriages for the five mile overland trip to Windermere.
 
@@ -58,7 +58,7 @@ With her centreboards and her big rig, Peggy swept the opposition off the lake. 
 
 There had, of course, been other small-boat races before the clash on Windermere, and the boats of Quayle and Curwen were not what we would call a dinghy today. But the Windermere race of 1796 remains significant – not only is it the earliest small-boat event that we have significant information about, but it may have been the first race for an open centreboard craft.
 
-![A small schooner sails past Belle Isle in the late 1700s. The boat pictured in "Belle isle Windermere in a calm" by Philip James de Loutherbourg could almost have been Peggy, but this picture was painted in 1786, ten years too early. The painting was bought by John Christian Curwen, who seems to been a patron of the arts as well as having all the other marks of a Renaissance man. Photo from the Lakeland Arts Trust.](images/belle.png)
+![A small schooner sails past Belle Isle in the late 1700s. The boat pictured in "Belle isle Windermere in a calm" by Philip James de Loutherbourg could almost have been Peggy, but this picture was painted in 1786, ten years too early. The painting was bought by John Christian Curwen, who seems to been a patron of the arts as well as having all the other marks of a Renaissance man. Photo from the Lakeland Arts Trust.](images/chapter1/belle.png)
 
 Curwen kept on running regattas on Windermere after Quayle and Peggy left; the poet Robert Southey’s complaint about the food he arranged one year is probably the earliest known whinge about regatta catering. One of Curwen’s neighbours, the famous journalist and professor John Wilson, became a fanatical sailor and owner of a fleet of racing boats, run by an old sailor called Billy. Like Curwen’s biography and Quayle’s letters, Wilson’s writing under the name of Christopher North gives us another glimpse of men whose daily concerns were archaic, but whose love for the sport sounds modern; “seldom rose we ... till, about twelve o’clock, we heard the south breeze come pushing up from the sea” he wrote. “Then Billy used to tap at our door, with his tarry paw, and whisper, ‘Master, Peggs is ready. I have brailed up the foresail; her jigger sits as straight as the Knave of Clubs, and we have ballasted with sand-bags. We’se beat the Liverpoolean to-day, Master,’ Then I rose.” He also writes of the pain of being out-pointed “in our old schooner, one day when the Victory, on the same tack, shot by us to windward like a salmon.”
 
@@ -78,9 +78,10 @@ But that was not the end of the story for Peggy and Margaret. In 1935, the walls
 
 Remarkably, Peggy was not the sole survivor of the Winderemere regatta of 1796. In 1952, G.H. Pattison of the Windermere Steamboat Museum found the boat that is believed to be Margaret being used as a chicken shed in the town of Southport. And so, amazingly, the two leading ladies of the very first recorded centreboarder regatta can still be seen today.
 
-![The hull that is believed to be John Christian Curwen’s Margaret, built in nearby Whitehaven in 1780. Photograph from [Lakeland Arts](https://www.lakelandarts.org.uk)](images/wsm-margaret-header.jpg)
+![The hull that is believed to be John Christian Curwen’s Margaret, built in nearby Whitehaven in 1780. Photograph from [Lakeland Arts](https://www.lakelandarts.org.uk)](images/chapter1/wsm-margaret-header.jpg)
 
-![Peggy’s construction looks lighter and more efficient than that of Curwen’s Margaret and other boats of her day. The red painted timber around the gunwales appear to be the extra planks that were fitted to raise her freeboard after the rough return from racing on Windermere. Pic from the Peggy of Castletown blogspot.](images/peggy2.png)
+
+![Peggy’s construction looks lighter and more efficient than that of Curwen’s Margaret and other boats of her day. The red painted timber around the gunwales appear to be the extra planks that were fitted to raise her freeboard after the rough return from racing on Windermere. Pic from the Peggy of Castletown blogspot.](images/chapter1/peggy2.png)
 
 Margaret is little more than a bare shell [^chapter1-8] but Peggy is almost complete; still bearing her 18th century paint and fittings. Today, Peggy is in the middle of a painstaking long-term restoration project.  After six years of planning and preparation, in 2015 she was gently lifted out of the boatshed in which she spent two centuries and taken to a preservation facility. The slow story of Peggy’s meticulous restoration can be seen at [Peggy of Castletown](http://peggy-of-castletown.blogspot.com.au/)
 
@@ -93,5 +94,5 @@ But the race on Windermere seems to have been a false dawn as far as open centre
 [^chapter1-9]: These seem to have included the fourth boat christened Cumberland and owned by the Commodore of the Cumberland Fleet, the first sailboat racing club. So far I have been unable to track down a date for her launch, but it appears that she was launched after Peggy’s race on Windermere.
 
 
-The men who kickstarted centreboarder racing around 1850 probably never heard of Peggy. But even after she had been entombed in her boathouse for four decades, the little schooner’s influence may have played a part in taking the centreboarder all the way to the other side of the world. [And that’s another story, for another post](https://sailcraftblog.wordpress.com/2016/05/19/sailcraft/).
+The men who kickstarted centreboarder racing around 1850 probably never heard of Peggy. But even after she had been entombed in her boathouse for four decades, the little schooner’s influence may have played a part in taking the centreboarder all the way to the other side of the world. And that’s another story, for another chapter - see @sec-chapter2.
 

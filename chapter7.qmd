@@ -1,4 +1,4 @@
-# “Skidding over the water” – Enter the planing hull
+# "Skidding over the water" – Enter the planing hull {#sec-chapter7}
 
 After their defeat by the slim American canoes in 1886, the British quickly followed the Americans in dumping their heavy centreboards and ballast, moving out of the cockpit, and starting to hike. Although at least one modern writer has claimed that the British resisted the change to the “deck position”, that was probably just one more example of someone falling for the myth of the conservative sailor. There is no real evidence of any such factor.  Once they got over the inevitable teething issues, the British canoe racers found that sailing from on deck was a revelation in performance and, more importantly, enjoyment and immersion in sailing. “For genuine exhilaration….there is no sailing in the world to equal the deck position of a 30-inch canoe” enthused one English sailor. “Every pulsation of the craft, every flutter of the sail, every streak of wind simply means that the body must act in response and unison; it means, in short, that the hand, the eye, and every pound of the body shall work with the wind in propelling the boat….in this position a man cannot help feeling that he is a part of the machine which moves at his will, but by the force of the wind…..We can carry more sail, therefore, go faster, and enjoy sailing more on deck than before…out of fifteen or sixteen canoes we have recently been sailing with at Hendon, at least fourteen have adopted the deck position, and the unanimous opinion is much in accord with what we have expressed here.”[^chapter7-1]
 
@@ -65,10 +65,11 @@ The Smiths continued to develop the Oxford canoe yawl style with boats like Batt
 ![The “improved sharpie” canoe Battledore, winner of the Royal Canoe Club’s Challenge Cup for 1892. Unlike America, the UK had no national canoe association that could set class rules for the whole nation. When she was sailing in events organised by other bodies such as the British Canoe Association, Battledore was sometimes raced with a four foot long sliding seat to add to the stability she gained from a deep 60lb centreboard.](images/chapter7/battledore-sheer-breadth.png)
 
 ::: {#fig-battledore layout-ncol="2"}
-
 ![](images/chapter7/battledore-body-plan.png)
+
 ![](images/chapter7/battledore-sail-plan.png)
 
+Battledore's body and sail plans.
 :::
 
 Another test came in 1894, when American canoest W.W. Howard came to race in England. Howard won only one race in his tour of the UK. His slender, flat-rockered canoe Yankee was too hard to keep upright and too slow to tack to be competitive on the Thames, and he withdrew from the RCC’s Challenge Cup on the Thames just 30 minutes before the start, stating that “the conditions were not fit for an international race”[^chapter7-23]  In 1895 the modified Yankee returned to the fray and was notably fast downwind, but still unable to regularly vanquish the beamier British canoes on their home waters.  Although the Brits admitted that on flat and open waters the slim Yankee, with her bigger rig and sliding seat, would probably beat their own craft, she was just not competitive on the UK courses, which tended to be either narrow and fluky or windy and choppy. [^chapter7-24]

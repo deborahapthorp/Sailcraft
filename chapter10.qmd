@@ -136,6 +136,7 @@ With the modern rigging and fittings, such anathema to the Dutch, Enrico’s boa
 :::{#fig-woodwork layout-nrow="2"}
 
 ![](images/chapter10/woodwork.jpg)
+
 ![](images/chapter10/woodwork-2.jpg)
 
 Immaculate woodwork and modern sail controls on a fibreglass hull – the face of the Bonaldo International 12.  The sail controls include a line that controls the amount of overlap between the yard and the mast, as well as the standard controls of a modern boat. The centreboard (bottom) is CNC milled and has a mirror finish that reflects the varnish and wood grain.

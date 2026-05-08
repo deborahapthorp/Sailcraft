@@ -1,4 +1,4 @@
-# The raincoat boat bed and the shoe-shine missionary: The story of the early sailing canoes, the first high-performance racers.{sec-chapter6}
+# The raincoat boat bed and the shoe-shine missionary: The story of the early sailing canoes, the first high-performance racers. {#sec-chapter6}
 
 The next breed of small sailboat was sparked by a very special raincoat, a mistake by a signalman in London’s Nine Elms station, and a psychological condition called “railway spine”. Almost all other popular types of sailing craft were sparked by wider factors like social forces or advances in materials; this was a type that was created by the exploits and promotion of one man. [^chapter6-1]
 
@@ -222,7 +222,7 @@ But while the canoeists of North America turned their backs on sailing, a small 
 
 [^chapter6-21]: Still, there were occasional tragedies and some had near misses.  The Rector of Cheadle, Commodore of the Mersey Canoe Club, “narrowly escaped losing his life while boating with no other companion than one of his monkeys, who stood on his head until finally washed away by the waves.”  The Rector later became one of the world’s leading experts on show dogs, which was probably safer for him and for his monkeys.
 
-[^chapter6-22a]:  Account from The Field,  Oct 7 1871, quoted in Forest and Stream, June 3 1896.
+[^chapter6-22a]:  Account from The Field,  Oct 7 1871, quoted in *Forest and Stream*, June 3 1896.
 
 [^chapter6-22]: p 216; “History of American Canoeing Pt 1, C. Bowyer Vaux, *Outing* Volume X issue 3 June 1887 p 260, and letter to the editor by Vaux, *Outing* Vol 6 p 237. Leeboards had been used in open Canadian canoes in 1860 and centerboards by 1865, but the open decks, high ends and hull shape of such types meant that they could not perform as well under sail as the decked canoe.  Quite why the centerboard and leeboard apparently took so long to be adopted into decked canoes is a mystery.
 
@@ -232,9 +232,9 @@ But while the canoeists of North America turned their backs on sailing, a small 
 
 [^chapter6-25]: *Outing* vol 10 p 364
 
-[^chapter6-26]: Forest and Stream Nov 27 1890 p 386. Some canoes carried even more ballast, with an article in The American Canoeist for June 1886 (p 100) saying that a couple of years earlier, 300 to 350lb of ballast was “not an uncommon amount”.
+[^chapter6-26]: *Forest and Stream* Nov 27 1890 p 386. Some canoes carried even more ballast, with an article in The American Canoeist for June 1886 (p 100) saying that a couple of years earlier, 300 to 350lb of ballast was “not an uncommon amount”.
 
-[^chapter6-27]: “Canoe Handling”, second edition 1885, Forest and Stream Publishing Co, C Bower Vaux,  re Nautils and Pear winning -Forest and Stream, April 29 1886
+[^chapter6-27]: “Canoe Handling”, second edition 1885, Forest and Stream Publishing Co, C Bower Vaux,  re Nautils and Pear winning -*Forest and Stream*, April 29 1886
 
 [^chapter6-27b]: “The Canoe – How to build and manage it” by   Alden, Scribner’s Magazine, August 1872.
 
@@ -302,7 +302,7 @@ But while the canoeists of North America turned their backs on sailing, a small 
 
 [^chapter6-55]: Stephens Tad and Me Oct 41 *MotorBoating* p 84
 
-[^chapter6-56]: In Forest & Stream Jan 8 1891 p 506 it was noted that the modern type of tiller extension that had been used in some canoes was “defective in two points.  It is so weak in construction as to be very easily broken, and also from its weakness and the fact that it swings freely it is of no aid to the main in regaining his position after hiking out…the mishaps to the old tiller in the races at the meet probably settled its fate, and the new (thwartships) one will supplant it entirely wherever the sliding seat is used.”
+[^chapter6-56]: In *Forest & Stream* Jan 8 1891 p 506 it was noted that the modern type of tiller extension that had been used in some canoes was “defective in two points.  It is so weak in construction as to be very easily broken, and also from its weakness and the fact that it swings freely it is of no aid to the main in regaining his position after hiking out…the mishaps to the old tiller in the races at the meet probably settled its fate, and the new (thwartships) one will supplant it entirely wherever the sliding seat is used.”
 
 [^chapter6-57]: Encyclopedia of Sport, Canoeing, p 172
 
@@ -324,9 +324,9 @@ But while the canoeists of North America turned their backs on sailing, a small 
 
 [^chapter6-65]: “Canoes and Canoeing” Warrington Baden-Powell in “the Encyclopedia of Sport”, F.G. Aflolo et al (eds) London, 1897 p 172
 
-[^chapter6-66]: *Forest and Steam*, p 412 May 12 1894
+[^chapter6-66]: *Forest and Stream*, p 412 May 12 1894
 
-[^chapter6-67]: *Forest and Steam*, Jan 26 1893 p 83
+[^chapter6-67]: *Forest and Stream*, Jan 26 1893 p 83
 
 [^chapter6-68]: For every inch the beam was increased over 30”, sail area could be increased by 3 ft2, while for every inch under 16’ the sail area had to be increased by ¼ ft2.  Beam had to be between 1/3 and 5/32 of overall length.  There were also minimum depth, waterline beam and weight limits. “Canoeing Under Sail”, Wilt in “Sailing Craft”, p 120 and 130.
 
@@ -343,7 +343,7 @@ Wilt’s complaint about the weight of the “racing machines” is something I 
 
 [^chapter6-73]: See also “THE CANOEING OF TO-DAY By LEONIDAS HUBBARD, Jr.” Outring Vol 40 p 700; BROOKLYN EAGLE 17 May 1896 p16  http://bklyn.newspapers.com/image/50432305/.
 
-[^chapter6-74]: *Forest and Steam*, p 412 May 12 1894.  By “rater types” one means boats lilke the Scarecrow, wich were nbot designed as Raters but followed the same style. The typical “canoe yawl” was a small double-ended yawl-rigged centreboard cruising yacht about 18-   long, which developed in north England from about     .
+[^chapter6-74]: *Forest and Stream*, p 412 May 12 1894.  By “rater types” one means boats lilke the Scarecrow, wich were nbot designed as Raters but followed the same style. The typical “canoe yawl” was a small double-ended yawl-rigged centreboard cruising yacht about 18-   long, which developed in north England from about     .
 
 [^chapter6-75]: Gordon K (Sandy) Douglass, “Sixty Years behind the mast – the fox on the water” p
 

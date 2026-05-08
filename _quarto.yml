@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: book
+  output-dir: docs
 
 book:
   title: "Sailcraft"
@@ -18,7 +18,9 @@ book:
     - chapter6.qmd
     - chapter7.qmd
     - chapter8.qmd
-    - references.qmd
+    - chapter9.qmd
+    - chapter10.qmd
+
 
 bibliography: references.bib
 

@@ -1,4 +1,4 @@
-# "Truly as fast as the wind": Catboats and skimming dishes {sec-chapter2}
+# "Truly as fast as the wind": Catboats and skimming dishes {#sec-chapter2}
 
 While Peggy slept in her boatshed and Margaret rotted by the lake, the next ancestor of the modern racing dinghy started to evolve across the Atlantic.  Some time before 1850, when the waters of north-eastern USA developed the beamy, shallow type that was to become the catboat and the sandbagger.
 
@@ -50,9 +50,9 @@ Truant crossed the Atlantic while British yachting was still in shock from the v
 
 Grinnell couldn’t have arrived at a better place and time. The sailors of the River Mersey cities of Liverpool and Birkenhead were just as keen on development as those who sailed the giant schooners and cutters of the Thames estuary and the Solent. They included men like members of the famous Laird shipbuilding family, who had recently launched the world’s first iron warship, complete with “sliding keels”. Shortly before America and Truant crossed the Atlantic, yachtsmen of the Mersey established the Birkenhead Model Yacht Club as “a school of marine architecture” with the aim of “scientific experiment and practical deduction” to improve boat design.  To the BMYC members, the word “model” had three meanings. As well as the obvious meaning of scale model, it was also a common term for the physical shape of a yacht’s hull at the time. Finally, and perhaps most importantly, there was the connotation of “an example to follow or imitate”, as in the term “model of perfection.”
 
-The men who formed the BMYC, once called “the mother of small yacht clubs”, ranged from titled big-boat owners to immigrant students, but they were united by a desire for a “progressive and scientific yacht club” that would improve boat design by testing models.[^chapter2-18]  “5000 persons assembled to witness the match. I will never forget the sight as long as I live” remembered one witness to one of their model yacht races in the docks near Liverpool “up to nearly their waists in the water stood some 15 gentlemen, including…a well known medico….and one of the young Lairds, who then owned a yacht of some 35 tons.”[^chapter2-19]
+The men who formed the BMYC, once called “the mother of small yacht clubs”, ranged from titled big-boat owners to immigrant students, but they were united by a desire for a “progressive and scientific yacht club” that would improve boat design by testing models.[^chapter2-18]  “5000 persons assembled to witness the match. I will never forget the sight as long as I live” remembered one witness to one of their model yacht races in the docks near Liverpool “up to nearly their waists in the water stood some 15 gentlemen, including…a well known medico….and one of the young Lairds, who then owned a yacht of some 35 tons.”[^chapter2-19a]
 
-Some BMYC members quickly found out that the choppy water of the dock and the effects of scale meant that their tests were misleading, and decided to continue their experiments with full size boats. “Owing to the dissatisfaction of several of the more progressive spirits at the results of our model experiments, craft of from 4,5,6,7 and 8 tons were at once built” foundation member H.R. Murray recalled years later. “And no sooner did they spread their white wings over the Mersey than (a ship) brought over a queer-looking centreboard craft” wrote Murray. [^chapter2-19B]
+Some BMYC members quickly found out that the choppy water of the dock and the effects of scale meant that their tests were misleading, and decided to continue their experiments with full size boats. “Owing to the dissatisfaction of several of the more progressive spirits at the results of our model experiments, craft of from 4,5,6,7 and 8 tons were at once built” foundation member H.R. Murray recalled years later. “And no sooner did they spread their white wings over the Mersey than (a ship) brought over a queer-looking centreboard craft” wrote Murray. [^chapter2-19b]
 
 ![Birkenhead’s “Great Float” dock, dressed for its official opening. Titled and wealthy men with a passion for boat design used to race model yachts in this unlikely industrial setting.](images/chapter2/birkenhead.jpg)
 
@@ -63,6 +63,7 @@ The “strange-looking little foreigner…has her mast stepped in her very eyes-
 Unlike the British cutters, Truant could sail well under mainsail alone, although she did sometimes set a topsail.  When racing she appears to have normally carried a jib set on a boom which (like the rig of a modern model yacht) pivoted on a point aft of the tack.
 
 ![Truant – a detail from a lithograph by Dutton. Hunts, the world’s first yachting magazine, advised its readers to go out and buy a copy of this accurate illustration of the famous little centreboarder.](images/chapter2/truant.jpg)
+
 Even before her first race, Truant’s performance on the narrow Mersey River amazed the locals. “Truly she is as fast as the wind – staying, wearing, running and reaching under the single sail with amazing velocity” one journalist reported.  [^chapter2-19]  In her first race the little boat, rated at 3 1/2 tons, “shot away”[^chapter2-20] to finish 16 minutes ahead of the fleet. “Although the Yankee has, on this occasion, again ‘whipped all creation’ the best feeling was manifested; and Grinnell was highly complimented by the commodore in awarding to him the cup.” [^chapter2-21]
 
 ![Liverpool docks in 1850, when sail still ruled the world’s busiest port, and improving hull designs saved lives and money.](images/chapter2/liverpool-history-waterfront-1850.jpg)
@@ -78,6 +79,7 @@ The New Sporting Magazine compared Truant’s impact to the that of the schooner
 One of the boatbuilders who puzzled over Truant was  H.R. Murray of the BMYC. Years later, he was to use the term “surface sailing” to contrast the American centreboarders with the deep British boats. “The hull should skim over the surface of the water, while the immersed blade increases the lateral resistance, and enables them then in ordinary weather to hold a wind with their deep-keeled rivals.” It was a description that echoed Schank’s words of the 1700s, and that Murray would take across the world. [^chapter2-11]
 
 ![Late in 2015, the auction house Christies was advertising the builder’s presentation model for Truant, apparently the genuine item. This low-quality image from the catalogue shows her deep skeg aft, her extensive decks, and her narrow beam compared to the sandbaggers of two decades later.](images/chapter2/truant-model.jpg)
+
 Although there were some who jeered and even some who cursed, the available evidence indicates that the overall reaction of the Victorian yachtsmen to Truant was positive.  As early as November 1852, Grinnell noted that builders from all parts of the UK were copying her model, and as soon after Truant returned from the Thames to her home waters at Liverpool, she started facing competition from other boats built along the lines of the American centreboard sloop. [^chapter2-29]   The Mersey fleet soon included the centreboarder Breeze built along American lines, the 10 ton Stranger, a keelboat built to the centreboard sloop concept by Bob Fish himself and carrying up to 12 crew as live ballast, and another Fish export, the little 2 ½ ton Buffalo Gal that was later sailed by Grinnell. [^chapter2-30],[^chapter2-31]
 
 Probably the keenest of all the Mersey centreboarder fans was the cotton  merchant Alfred Bower.[^chapter2-32]  In his obituary is was noted that Bower “to his last was a firm believer that, for speed, the centre-board would beat the deep keel craft hands down.”[^chapter2-33]  For several years he had a new 8 ton centreboard sloop type built every year; first Presto, then Challenge, Charm, Spray, each with 670lb/300kg) of movable ballast mounted on “tramlines” that ran across the cockpit – an idea that the legendary Herreshoffs only adopted about a decade later.[^chapter2-34]
@@ -106,7 +108,7 @@ Truant’s career shows a trend that extends to the present day.  The fact that 
 
 And what of Grinnell? After selling Truant, he also occasionally raced his big schooner on the Mersey.  When the American Civil War began, this member of the New York establishment took up arms against his own side by joining the southern Confederate forces.  Remarkably, after the south lost the war he appears to have returned to New York, but unlike the rest of his family he dropped out of sailing.
 
-But even as the craze for the American centreboard sloop started to fade, the model started to spread further afield.  Men and boats inspired by Truant ended up taking the “surface sailing” model across to the far side of the world. Bob Fish himself started to export centreboard sloops to Germany, especially to the tiny ornamental lake Alster in Hamburg. Was Fish’s export drive spurred by the fact that one skippers entered against Truant in the famous race on the Thames was a Herr Westphal from Hamburg?  But that is another story, and [first we must look at the next Bob Fish boat to cause a sensation overseas...](https://sailcraftblog.wordpress.com/2016/05/20/sailcraft-pt-3/)
+But even as the craze for the American centreboard sloop started to fade, the model started to spread further afield.  Men and boats inspired by Truant ended up taking the “surface sailing” model across to the far side of the world. Bob Fish himself started to export centreboard sloops to Germany, especially to the tiny ornamental lake Alster in Hamburg. Was Fish’s export drive spurred by the fact that one skippers entered against Truant in the famous race on the Thames was a Herr Westphal from Hamburg?  But that is another story, and first we must look at the next Bob Fish boat to cause a sensation overseas... see @sec-chapter3.
 
 [^chapter2-1]: See “Fore & Aft Craft and their story”, E Keble Chatterton, p 261 and 305.
 
@@ -146,13 +148,13 @@ But even as the craze for the American centreboard sloop started to fade, the mo
 
 [^chapter2-19a]: Ballarat Courier, 30 Aug 1877
 
-[^chapter2-19B]: Ballarat Courier, 7 Sep 1877
+[^chapter2-19b]: Ballarat Courier, 7 Sep 1877
 
 [^chapter2-1b]: The Era, May 22 1853
 
-[^chapter2-19]: Bell’s Life in London and Sporting Chronicle, June 20, 1852.  The report says that she was normally cat rigged, but it appears that when racing she normally carried a jib.
+[^chapter2-19]: *Bell’s Life in London and Sporting Chronicle*, June 20, 1852.  The report says that she was normally cat rigged, but it appears that when racing she normally carried a jib.
 
-[^chapter2-20]: Manchester Times, June 30 1852.  Truant often raced with Birkenhead Model Yacht Club on the Mersey River at Liverpool.  Birkenhead, like its London counterpart, used the term “model” to mean an ideal full-sized boat, not just a “toy” or miniature one.  As noted in Bell’s Life of December 19 1852, the club “was formed expressly and entirely with a view to the improvement of model”, and so raced full-sized craft of up to 8 tons.  The early fleet was made up of “old boats” converted into yachts, such as Alfred Bowyer’s Mosquito, but custom-built yachts soon arrived.
+[^chapter2-20]: *Manchester Times*, June 30 1852.  Truant often raced with Birkenhead Model Yacht Club on the Mersey River at Liverpool.  Birkenhead, like its London counterpart, used the term “model” to mean an ideal full-sized boat, not just a “toy” or miniature one.  As noted in Bell’s Life of December 19 1852, the club “was formed expressly and entirely with a view to the improvement of model”, and so raced full-sized craft of up to 8 tons.  The early fleet was made up of “old boats” converted into yachts, such as Alfred Bowyer’s Mosquito, but custom-built yachts soon arrived.
 
 [^chapter2-21]: The Brooklyn Daily Eagle, 14 Aug 1852, p 1
 

@@ -1,4 +1,4 @@
-# Introduction {sec-intro .unnumbered}
+# Introduction {.unnumbered}
 
 The SailCraft project was really born years ago, when I realised that no one had tried to tell the story of the racing dinghy and the forces that shaped it.   It’s a complex tale: a web of interaction between factors such as emerging technologies, differences in geography and economies, the physics of wind and water, real estate and liquor laws, the width of an Austin A40 sedan and an English seaside laneway, and changing gender roles. It’s a tale that has spawned many myths, often ones about conservatives stifling development, but where the reality has few such villains and many heroes. [^1]
 

@@ -1,4 +1,4 @@
-# "A little too marvelous to be real" – the story of the Una Boat {sec-chapter3}
+# "A little too marvelous to be real" – the story of the Una Boat {#sec-chapter3}
 
 
 Even before the initial flush of British enthusiasm for the “Yankee centreboarder” died away, it was renewed by a smaller Bob Fish design.  In 1852 the expatriate Scotsman William Butler Duncan, a leading member of the New York YC, bought a little catboat from Fish and sent it to England as a present for his friend Lord Mountcharles. [^chapter3-1]   Una, as she was known, became a toy of the rich and famous, and gave her name to the entire catboat breed and the cat rig in England.
@@ -26,34 +26,32 @@ The Una fever in England faded in the late 1800s.  The diagnosis was similar to 
 
 But the Una Boat story may shed an interesting light on the culture of sailing in England, one of the core areas for dinghy design and development.  Some commentators have claimed that the Una was an upstart and a social outcast.  They could not be more wrong.  The fact that aristocrats like Mountcharles (soon to become the Marquis of Coyningham), Sea Lords, the Royal Yacht Squadron and the man who would be king were happy to be seen involved in small, unusual boats proved that social status in England was not strictly linked to the size of your boat.  Perhaps Britain’s class structure was so secure that a person’s social status could not be damaged even by something as apparently eccentric as sailing a tiny boat.  The tale of Una may have been a forerunner of the fact that British sailors of later eras were happy to sail boats that were significantly smaller than those of the other major sailing nations, and which pointed the way to the modern sailing dinghy.
 
-While the Una craze was waxing and waning in England, the catboat style was being pushed to new extremes in its homeland.  For the story of the sandbaggers, the next part of the SailCraft story, go [here](https://sailcraftblog.wordpress.com/2016/05/23/519/).
+While the Una craze was waxing and waning in England, the catboat style was being pushed to new extremes in its homeland.  For the story of the sandbaggers, the next part of the SailCraft story, see @sec-chapter4.
 
-[^chapter3-1]: The information about Una’s provenance comes from an interview with Duncan; “Men who have made yachting, William Butler Duncan”  The Rudder, Jan 1906,   p 6.  Some other sources say that Mountcharles saw Una at Fish’s yard while visiting New York; the two accounts are not mutually inconconsistent. Like so many others associated with the story of the Unas, W Butler Duncan was a pillar of the establishment. He was later a Rear Commodore of the New York YC and played a leading role in America’s Cup defence syndicates.
+[^chapter3-1]: The information about Una’s provenance comes from an interview with Duncan; “Men who have made yachting, William Butler Duncan”  *The Rudder*, Jan 1906,  p 6.  Some other sources say that Mountcharles saw Una at Fish’s yard while visiting New York; the two accounts are not mutually inconconsistent. Like so many others associated with the story of the Unas, W Butler Duncan was a pillar of the establishment. He was later a Rear Commodore of the New York YC and played a leading role in America’s Cup defence syndicates.
 
-[^chapter3-2]: Hunts Yachting Magazine Vol 2 1853 p 152 notes that it was regretted that Una was not seen sailing during a London Model Yacht Club race on the Serpentine. Bell’s Life in London and Sporting Chronicle, March 6 1853 noted that Mountcharles presented the Prince of Wales YC with a model of Una that “elicited universal admiration”. Una’s dimensions, as given by Kemp in his Manual, were 16’ LOA, 6’6” beam, weight (with crew) 13 cwt, sail area    .
+[^chapter3-2]: *Hunts Yachting Magazine* Vol 2 1853 p 152 notes that it was regretted that Una was not seen sailing during a London Model Yacht Club race on the Serpentine. Bell’s Life in London and Sporting Chronicle, March 6 1853 noted that Mountcharles presented the Prince of Wales YC with a model of Una that “elicited universal admiration”. Una’s dimensions, as given by Kemp in his Manual, were 16’ LOA, 6’6” beam, weight (with crew) 13 cwt, sail area    .
 
-[^chapter3-3]: Sailing Boats p 94.
+[^chapter3-3]: *Sailing Boats* p 94.
 
 [^chapter3-4]: Dixon Kemp, p 322.  Kemp states that the normal Cowes Una Boats were similar to the original, but had slightly flatter sections and more freeboard.
 
-[^chapter3-5]: The Standard, June 15 1875 p 3
+[^chapter3-5]: *The Standard*, June 15 1875 p 3
 
-[^chapter3-6]: Bell’s Life in London and Sporting Chronicle, August 20, 1854.  The event did not occur as “they were all afraid to show against the Teazer, of Southampton, which had been expressly entered for the purpose of contending with them.”
+[^chapter3-6]: *Bell’s Life in London and Sporting Chronicle*, August 20, 1854.  The event did not occur as “they were all afraid to show against the Teazer, of Southampton, which had been expressly entered for the purpose of contending with them.”
 
-[^chapter3-7]: Hampshire Telegraph and Sussex Chronicle, August 18, 1855
+[^chapter3-7]: *Hampshire Telegraph and Sussex Chronicle*, August 18, 1855
 
-[^chapter3-8]: Hampshire Telegraph and Salisbury Guardian, August 16, 1856.  A few months before, however, it was said that the very deep 20 foot Itchen Ferries beat the Cowes centreboarders; Bell’s Life in London and Sporting Chronicle , November 25, 1855, p.5
+[^chapter3-8]: *Hampshire Telegraph and Salisbury Guardian*, August 16, 1856.  A few months before, however, it was said that the very deep 20 foot Itchen Ferries beat the Cowes centreboarders; *Bell’s Life in London and Sporting Chronicle*, November 25, 1855, p.5
 
-[^chapter3-9]: Isle of Wight Observer, July 23 1881, p 6.  The Prince’s boat, like most of those she raced against, was about 25’ long.
+[^chapter3-9]: *Isle of Wight Observer*, July 23 1881, p 6.  The Prince’s boat, like most of those she raced against, was about 25’ long.
 
-[^chapter3-10]: The County Gentleman: Sporting Gazette and Agricultural Journal, August 6 1881
+[^chapter3-11]: *The County Gentleman: Sporting Gazette and Agricultural Journal*, August 6 1881
 
-[^chapter3-11]: The County Gentleman: Sporting Gazette and Agricultural Journal, August 6 1881
+[^chapter3-12]: *Morning Post*, August 15, 1881 p 6.  The *Evening News* of the same day noted that the exported Herreshoff catboat Gleam, which had movable ballast and a large crew for live ballast, was “sailing in company, and beating the racers easily.”
 
-[^chapter3-12]: Morning Post, August 15, 1881 p 6.  The Evening News of the same day noted that the exported Herreshoff catboat Gleam, which had movable ballast and a large crew for live ballast, was “sailing in company, and beating the racers easily.”
-
-[^chapter3-14]: The Times (London, England), Monday, Aug 14, 1882; pg. 8
+[^chapter3-14]: *The Times* (London, England), Monday, Aug 14, 1882; pg. 8
 
 [^chapter3-15]: Edwin B. Schoettle, American Catboats p 94, in Sailing Craft.
 
-[^chapter3-16]: Sailing Boats p 19
+[^chapter3-16]: *Sailing Boats* p 19

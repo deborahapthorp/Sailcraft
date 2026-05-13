@@ -30,10 +30,10 @@ bibliography: references.bib
 format:
   html:
     theme:
-      - cosmo
+      - yeti
       - brand
   pdf:
-    documentclass: scrreprt
+    documentclass: scrbook
   epub:
     cover-image: images/cover.png
 

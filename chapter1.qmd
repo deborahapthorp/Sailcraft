@@ -1,4 +1,4 @@
-# "The sliding keels that took advantage" - the dawn of the racing centreboarder {sec-chapter1}
+# "The sliding keels that took advantage" - the dawn of the racing centreboarder {#sec-chapter1}
 
 ![A model of Peggy of Castletown – the victor in the first known race involving open centreboard boats.](images/chapter1/peggymodel.jpg)
 

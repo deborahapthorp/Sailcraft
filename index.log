@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.5.18)  19 MAY 2026 08:23
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.5.18)  19 MAY 2026 08:50
  restricted system commands enabled.
 **index.tex
 (./index.tex
@@ -3229,26 +3229,76 @@ Package luatex.def Info: images/chapter14/harry-b-snell-august-1896-outing-half-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [339] [340<./images/chapter14/harry-b-snell-august-1896-outing-half-rater-painting.jpg>]
+<images/chapter14/half-raters_trial_race.png, id=2505, 703.62875pt x 480.79625pt>
+File: images/chapter14/half-raters_trial_race.png Graphic file (type png)
+<use images/chapter14/half-raters_trial_race.png>
+Package luatex.def Info: images/chapter14/half-raters_trial_race.png  used on input line 7634.
+(luatex.def)             Requested size: 703.62703pt x 480.79506pt.
+[341<./images/chapter14/half-raters_trial_race.png>]
+<images/chapter14/hope-cropped.png, id=2511, 512.91624pt x 567.11874pt>
+File: images/chapter14/hope-cropped.png Graphic file (type png)
+<use images/chapter14/hope-cropped.png>
+Package luatex.def Info: images/chapter14/hope-cropped.png  used on input line 7656.
+(luatex.def)             Requested size: 512.915pt x 567.11736pt.
 
-LaTeX Warning: File `images/chapter14/274-half-raters_trial_race.webp' not found on input line 7634.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[342]
+Overfull \vbox (47.11903pt too high) has occurred while \output is active []
+
+[343<./images/chapter14/hope-cropped.png>]
+<images/chapter14/paprika.png, id=2522, 703.62875pt x 564.1075pt>
+File: images/chapter14/paprika.png Graphic file (type png)
+<use images/chapter14/paprika.png>
+Package luatex.def Info: images/chapter14/paprika.png  used on input line 7679.
+(luatex.def)             Requested size: 703.62703pt x 564.10611pt.
+<images/chapter14/seawanhaka-in-it.jpg, id=2523, 197.83913pt x 158.09062pt>
+File: images/chapter14/seawanhaka-in-it.jpg Graphic file (type jpg)
+<use images/chapter14/seawanhaka-in-it.jpg>
+Package luatex.def Info: images/chapter14/seawanhaka-in-it.jpg  used on input line 7690.
+(luatex.def)             Requested size: 197.83864pt x 158.09023pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[344<./images/chapter14/paprika.png>]
+<images/chapter14/kittie-v.png, id=2529, 702.625pt x 563.10374pt>
+File: images/chapter14/kittie-v.png Graphic file (type png)
+<use images/chapter14/kittie-v.png>
+Package luatex.def Info: images/chapter14/kittie-v.png  used on input line 7717.
+(luatex.def)             Requested size: 702.62328pt x 563.10237pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[345<./images/chapter14/seawanhaka-in-it.jpg>]
+<images/chapter14/riverside-sailing.jpg, id=2535, 642.4pt x 511.9125pt>
+File: images/chapter14/riverside-sailing.jpg Graphic file (type jpg)
+<use images/chapter14/riverside-sailing.jpg>
+Package luatex.def Info: images/chapter14/riverside-sailing.jpg  used on input line 7736.
+(luatex.def)             Requested size: 642.39844pt x 511.91125pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[346<./images/chapter14/kittie-v.png>]
+
+LaTeX Warning: File `images/chapter14/vesper.png' not found on input line 7755.
 
 
-! LaTeX Error: Unknown graphics extension: .webp.
+! Package luatex.def Error: File `images/chapter14/vesper.png' not found: using draft setting.
 
-See the LaTeX manual or LaTeX Companion for explanation.
+See the luatex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.7634 ...hapter14/274-half-raters_trial_race.webp}}
+l.7755 ...aspectratio]{images/chapter14/vesper.png}}
                                                   
 
 Here is how much of LuaTeX's memory you used:
- 26746 strings out of 475892
+ 26820 strings out of 475892
  100000,1373583 words of node,token memory allocated
- 7273 words of node memory still in use:
-   27 hlist, 2 vlist, 7 rule, 24 disc, 1 local_par, 4 dir, 347 glue, 25 kern, 6 penalty, 6 margin_kern, 333 glyph, 298 attribute, 81 glue_spec, 298 attribute_list, 3 temp, 3 if_stack, 1 pdf_dest, 4 pdf_action, 6 pdf_colorstack nodes
-   avail lists: 1:1,2:364,3:121,4:105,5:478,6:27,7:7358,8:29,9:327,10:22,11:389,12:1
- 47647 multiletter control sequences out of 65536+600000
- 85 fonts using 27185343 bytes
+ 10028 words of node memory still in use:
+   49 hlist, 5 vlist, 13 rule, 36 disc, 5 local_par, 4 dir, 417 glue, 49 kern, 18 penalty, 10 margin_kern, 536 glyph, 338 attribute, 81 glue_spec, 338 attribute_list, 3 temp, 7 if_stack, 1 write, 2 pdf_dest, 4 pdf_action, 18 pdf_colorstack, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
+   avail lists: 1:1,2:280,3:105,4:89,5:454,6:23,7:7085,8:29,9:295,10:22,11:377,12:1
+ 47689 multiletter control sequences out of 65536+600000
+ 85 fonts using 27185231 bytes
  108i,9n,114p,11226b,666s stack positions out of 10000i,1000n,20000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!

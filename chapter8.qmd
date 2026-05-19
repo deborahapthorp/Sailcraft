@@ -50,9 +50,16 @@ Big money may also have tempted sandbagger sailors away. Some of the best may ha
 
 Changes in wider society also played a part.  The growth of New York was matched by a growth in pollution.  By the end of the century, the city was called “an island in a sea of sewerage” that affected the oyster fisheries, killing off the weekday work for the sandbaggers and many of their sailors. Factories, oil tanks and transportation facilities took over the waterfront, sweeping away the old havens like Gowanus Bay. Club after club had to move away from their convenient stations near the city.
 
-![Gowanus Bay in 1857, when it was still a pleasant place for a yacht club or boatyard](images/chapter8/gowanus-bay-1867.png)
 
-![Gowanus Bay a few decades later, when the creek had been turned into an industrial canal and industry and pollution had swept away the clubs, the sandbaggers, and the oyster fishery many of the boats and sailors depended on.](images/chapter8/gowanus2.jpg)
+:::{#fig-gowanus-bay layout-nrow="2"}
+
+![](images/chapter8/gowanus-bay-1867.png)
+
+![](images/chapter8/gowanus2.jpg)
+
+Above, Gowanus Bay in 1857, when it was still a pleasant place for a yacht club or boatyard. Below, Gowanus Bay a few decades later, when the creek had been turned into an industrial canal and industry and pollution had swept away the clubs, the sandbaggers, and the oyster fishery many of the boats and sailors depended on.
+:::
+
 
 Perhaps the greatest blow came when the traditional American centreboarder earned a reputation as an unsafe type. For years, the pages of the New York papers had run stories of death after death when small centreboarders capsized.  “The capsizing of small open boats and yachts, even when attended with fatal results, was too common to attract much notice” wrote Stephens.[^chapter8-18]
 
@@ -79,23 +86,23 @@ But while the sandbaggers and other American workboats may have died, they can b
 
 [^chapter8-1b]: The Seawanhaka did not create the concept; the early races of the NYYC had included “Corinthian” events, as had many British clubs.
 
-[^chapter8-2]: Brooklyn Daily Eagle. 11 June 1877 p 2.
+[^chapter8-2]: *Brooklyn Daily Eagle*. 11 June 1877 p 2.
 
-[^chapter8-3]: Yacht’s Sailing Boats, the Earl of Pembroke and Montgomery, Yachting Vol 1, Badminton Library
+[^chapter8-3]: Yacht’s Sailing Boats, the Earl of Pembroke and Montgomery, *Yachting* Vol 1, Badminton Library
 
 [^chapter8-4]: Brooklyn Daily Eagle. 11 June 1877 p 2.
 
-[^chapter8-5]: See for example Thomas Day’s editorial in The Rudder, vol 20 Oct 1908 p 230.
+[^chapter8-5]: See for example Thomas Day’s editorial in *The Rudder*, vol 20 Oct 1908 p 230.
 
-[^chapter8-6]: American Catboats, Sailing Craft, p.88
+[^chapter8-6]: American Catboats, *Sailing Craft*, p.88
 
-[^chapter8-7]: Of course, there was snobbery in yachting; people like William Cooper had to note that owners who got involved in handling their boats would not meet “undue familiarity” from their paid crew (Traditions and Memories of American Yachting, MotorBoating Jan 45 p 91).  Claims that the big-boat men were jealous of the publicity the sandbaggers appear to be baseless – the America’s Cup attracted many more spectators with up to 200 steamers and many smaller yachts following the races; see Outing Vol 10, Editor’s open Window p 485.  General interest magazines gave enormous publicity to the America’s Cup and big boat events; Harpers Weekly included a ten page feature on the AC, a detailed article on rating rule development, and regular updates on the selection trials. Day was also against professionalism on moral grounds; as he wrote (The Rudder Vol that “as soon as a pastime is performed by hirelings it is no longer a sport, it is a business” and he went to associate professionalism with the fall of Rome and general degradation. 1908 p 230
+[^chapter8-7]: Of course, there was snobbery in yachting; people like William Cooper had to note that owners who got involved in handling their boats would not meet “undue familiarity” from their paid crew (Traditions and Memories of American Yachting, *MotorBoating* Jan 45 p 91).  Claims that the big-boat men were jealous of the publicity the sandbaggers appear to be baseless – the America’s Cup attracted many more spectators with up to 200 steamers and many smaller yachts following the races; see Outing Vol 10, Editor’s open Window p 485.  General interest magazines gave enormous publicity to the America’s Cup and big boat events; Harpers Weekly included a ten page feature on the AC, a detailed article on rating rule development, and regular updates on the selection trials. Day was also against professionalism on moral grounds; as he wrote (The Rudder Vol that “as soon as a pastime is performed by hirelings it is no longer a sport, it is a business” and he went to associate professionalism with the fall of Rome and general degradation. 1908 p 230
 
 [^chapter8-8]: The Rudder, Dec 1904 p 677. The fact that Day, the influential and opinionated editor of The Rudder magazine, was against women being allowed into yacht clubs demonstrates that the sailors of the time were not simply divided into backward-looking snobs and forward-looking progressives.
 
 [^chapter8-9]: The Rudder May 1890 Vol 1 p 2
 
-[^chapter8-10]: The Seawanhaka Rule followed the model that Dixon Kemp had been advocating since 1880.  For some years afterward, there was variation in the rules followed by the major New York and Boston clubs, but some all followed the “sail area times length” them. See Traditions and Memories of American yachting, MotorBoating April 1941 p 42 amd May 1941 p 26.
+[^chapter8-10]: The Seawanhaka Rule followed the model that Dixon Kemp had been advocating since 1880.  For some years afterward, there was variation in the rules followed by the major New York and Boston clubs, but some all followed the “sail area times length” them. See Traditions and Memories of American yachting, *MotorBoating* April 1941 p 42 amd May 1941 p 26.
 
 <!--[^chapter8-10a]:“A new association, the New York Yacht Racing Association, was formed which specifically stated that shifting ballast was to be allowed in open boats.”  See [Rule VIII](https://babel.hathitrust.org/cgi/pt?id=loc.ark:/13960/t0vq3sp1w;view=1up;seq=55;size=75). “It was said to have held the largest regattas ever run in New York”:- *Forest and Stream*, Feb 16 1895 --> 
 
@@ -107,21 +114,21 @@ But while the sandbaggers and other American workboats may have died, they can b
 
 [^chapter8-13b]: Puritan and her designer Edward Burgess came from Boston, where deeper water and stronger winds than New York had bred a long tradition of moderate designs, and where shifting ballast had long been banned even in small boats.
 
-[^chapter8-14]: “Barnegat Bay Sneak Boxes” by Edwin B Schoettle, “Sailing Craft” p 607.
+[^chapter8-14]: “Barnegat Bay Sneak Boxes” by Edwin B Schoettle, *Sailing Craft* p 607.
 
-[^chapter8-15]: “Bilgeboard scows” Edwin M and T.M. Chance, in Schoettle’s Sailing Craft  p 487
+[^chapter8-15]: “Bilgeboard scows” Edwin M and T.M. Chance, in Schoettle’s *Sailing Craft*  p 487
 
-[^chapter8-16]: “American Catboats” by Edwin J Schoettle in Sailing Craft p 98.  Merry Thought has been said to have cost $5000 instead of the $1000 to $1500 of earlier boats.  See also Gaff Rig, John LWeather, 1974 edition p 97
+[^chapter8-16]: “American Catboats” by Edwin J Schoettle in Sailing Craft p 98.  Merry Thought has been said to have cost \$5000 instead of the \$1000 to \$1500 of earlier boats.  See also *Gaff Rig*, John LWeather, 1974 edition p 97
 
 [^chapter8-17]: For example, Riverside YC still had a class for 25ft open catboats with shifting ballast in 1895; Forest and Stream 1895 July 13 1895 p 36
 
-[^chapter8-18]: American Yachting p 126 (F&S Jan 14 1892)
+[^chapter8-18]: *American Yachting* p 126 (F&S Jan 14 1892)
 
-[^chapter8-19]: Traditions and Memories, MotorBoating August 1944 p 121.
+[^chapter8-19]: Traditions and Memories, *MotorBoating* August 1944 p 121.
 
-[^chapter8-20]: The Rudder, Sept 1903 p 509
+[^chapter8-20]: *The Rudder*, Sept 1903 p 509
 
-[^chapter8-21]: Yacht types in Australia, Southern Cross, Dec 12 1898 and Traditions and Memories, MotorBoating Sep 44 p 46
+[^chapter8-21]: Yacht types in Australia, Southern Cross, Dec 12 1898 and Traditions and Memories, *MotorBoating* Sep 44 p 46
 
 [^chapter8-22]: Stephens Sept 44 MB p 46
 

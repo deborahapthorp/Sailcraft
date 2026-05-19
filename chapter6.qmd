@@ -345,9 +345,9 @@ Wilt’s complaint about the weight of the “racing machines” is something I 
 
 [^chapter6-74]: *Forest and Stream*, p 412 May 12 1894.  By “rater types” one means boats lilke the Scarecrow, wich were nbot designed as Raters but followed the same style. The typical “canoe yawl” was a small double-ended yawl-rigged centreboard cruising yacht about 18-   long, which developed in north England from about     .
 
-<!--[^chapter6-75]: Gordon K (Sandy) Douglass, “Sixty Years behind the mast – the fox on the water” p --> 
+[^chapter6-75]: Gordon K (Sandy) Douglass, “Sixty Years behind the mast – the fox on the water” p  
 
-[^chapter6-75b]: The Rudder, May 1915, p 253. See also the London Times, quoted in American Canoeist, November 1882 p 155.
+<!--[^chapter6-75b]: The Rudder, May 1915, p 253. See also the London Times, quoted in American Canoeist, November 1882 p 155.-->
 
 [^chapter6-76]: “THE CANOEING OF TO-DAY By LEONIDAS HUBBARD, Jr.” Outring Vol 40 p 705
 

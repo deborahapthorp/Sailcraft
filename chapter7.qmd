@@ -130,7 +130,7 @@ But the number of people who like that form of amusement was dropping.  As early
 
 [^chapter7-21]: Hayward, *Canoeing* p 20
 
-[^chapter7-22]: Hayward, *Canoeing* p 22
+<!--[^chapter7-22]: Hayward, *Canoeing* p 22 -->
 
 [^chapter7-23]: *Morning Post*, June 20, 1894, Issue 38073, p.3.  *The Rudder* Oct 1904 Vol15.   p544 mentions that two US canoes also failed to win the RCC Challenge Cup in 1904.
 

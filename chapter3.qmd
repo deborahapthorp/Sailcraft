@@ -51,7 +51,7 @@ While the Una craze was waxing and waning in England, the catboat style was bein
 
 [^chapter3-12]: *Morning Post*, August 15, 1881 p 6.  The *Evening News* of the same day noted that the exported Herreshoff catboat Gleam, which had movable ballast and a large crew for live ballast, was “sailing in company, and beating the racers easily.”
 
-[^chapter3-14]: *The Times* (London, England), Monday, Aug 14, 1882; pg. 8
+<!--[^chapter3-14]: *The Times* (London, England), Monday, Aug 14, 1882; pg. 8-->
 
 [^chapter3-15]: Edwin B. Schoettle, American Catboats p 94, in Sailing Craft.
 

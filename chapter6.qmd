@@ -207,7 +207,7 @@ But while the canoeists of North America turned their backs on sailing, a small 
 
 [^chapter6-15]: “John MacGregor” notes at p 359 that a Reverend C.R. Fairey copied Macgregor by canoeing around Australia with religious tracts for watermen. See also NZ -Australian Town and Country Journal 26 Feb 1887 p 39
 
-[^chapter6-15b]: Re capsizing – Dixon Kemp’s 1884 edition says that as early as 1879, a canoe that capsized and filled recovered quickly enough to finish third in a field of 11 racers.
+<!--[^chapter6-15b]: Re capsizing – Dixon Kemp’s 1884 edition says that as early as 1879, a canoe that capsized and filled recovered quickly enough to finish third in a field of 11 racers.-->
 
 
 [^chapter6-16]:  "Canoe meet at the Thousand Islands" - C. Bowyer Vaux. “  *Outing*, Vol 14, P 354.  As late as 1897 the Encyclopedia of Sport still referred to sailing as “the leading feature of present day canoeing” (p 171) and in 1892 it was stated that ‘the most remarkable feature in modern canoeing is the extent to which the paddle has been superseded by the sail”;( The County Gentleman: Sporting Gazette, Agricultural Journal, and “The Man about Town” London, England), Saturday, July 30, 1892; pg. 1026
@@ -222,7 +222,7 @@ But while the canoeists of North America turned their backs on sailing, a small 
 
 [^chapter6-21]: Still, there were occasional tragedies and some had near misses.  The Rector of Cheadle, Commodore of the Mersey Canoe Club, “narrowly escaped losing his life while boating with no other companion than one of his monkeys, who stood on his head until finally washed away by the waves.”  The Rector later became one of the world’s leading experts on show dogs, which was probably safer for him and for his monkeys.
 
-[^chapter6-22a]:  Account from The Field,  Oct 7 1871, quoted in *Forest and Stream*, June 3 1896.
+<!--[^chapter6-22a]:  Account from The Field,  Oct 7 1871, quoted in *Forest and Stream*, June 3 1896.-->
 
 [^chapter6-22]: p 216; “History of American Canoeing Pt 1", C. Bowyer Vaux, *Outing* Volume X issue 3 June 1887 p 260, and letter to the editor by Vaux, *Outing* Vol 6 p 237. Leeboards had been used in open Canadian canoes in 1860 and centerboards by 1865, but the open decks, high ends and hull shape of such types meant that they could not perform as well under sail as the decked canoe.  Quite why the centerboard and leeboard apparently took so long to be adopted into decked canoes is a mystery.
 
@@ -236,7 +236,7 @@ But while the canoeists of North America turned their backs on sailing, a small 
 
 [^chapter6-27]: “Canoe Handling”, second edition 1885, Forest and Stream Publishing Co, C Bowyer Vaux,  re Nautilus and Pear winning -*Forest and Stream*, April 29 1886
 
-[^chapter6-27b]: “The Canoe – How to build and manage it” by   Alden, Scribner’s Magazine, August 1872.
+<!--[^chapter6-27b]: “The Canoe – How to build and manage it” by   Alden, Scribner’s Magazine, August 1872.-->
 
 [^chapter6-28]: “History of American Canoeing” *Outing* Vol X, Issue 3 June 1887 p268
 
@@ -284,15 +284,15 @@ But while the canoeists of North America turned their backs on sailing, a small 
 
 [^chapter6-49]: Trad and Mem MotorBoating October 1941 p 84
 
-[^chapter6-49a]: *Forest and Stream*, April 29 1886
+<!--[^chapter6-49a]: *Forest and Stream*, April 29 1886-->
 
-[^chapter6-49b]: These figures from “Rushton and His Times in American Canoeing”, by Atwood Manley - “like some other British sailors he had already fitted a tiller so that he could steer from on deck”:- See The American Canoeist, June 1886 p 100
+<!--[^chapter6-49b]: These figures from “Rushton and His Times in American Canoeing”, by Atwood Manley - “like some other British sailors he had already fitted a tiller so that he could steer from on deck”:- See The American Canoeist, June 1886 p 100 -->
 
 [^chapter6-50]: CANOE MEET AT THE THOUSAND ISLANDS. BY C. BOWYER VAUX. *Outing* vol 14 p356
 
 [^chapter6-51]: C Bowyer Vaux, appendix.  Pescowic SELECTED FOR ICC   but as Vaux noted, ““Her performance at the ’86 A. C. A. meet were the talk of the canoeing world for over two years in England, Germany and America. This arrangement did not and cannot prove popular for obvious reasons. It is a racing expedient, and perfectly allowable as such.”[51]
 
-[^chapter6-51b]: Progress in canoeing
+<!--[^chapter6-51b]: Progress in canoeing -->
 
 [^chapter6-52]: “The International Canoe Race”, *Outing* Vol 9 p 169
 
@@ -316,7 +316,7 @@ But while the canoeists of North America turned their backs on sailing, a small 
 
 [^chapter6-62]: *Outing* vol 14 p 354 saoid that this ‘standing rig” was first used in the famous canoe Pescowid in 1886.
 
-[^chapter6-62b]: “Scantling regulation in yachting”, W P Stephens, http://www.sname.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=bc8bb07c-337b-43c8-a201-e3e686b6f09f
+<!--[^chapter6-62b]: “Scantling regulation in yachting”, W P Stephens, http://www.sname.org/HigherLogic/System/DownloadDocumentFile.ashx?DocumentFileKey=bc8bb07c-337b-43c8-a201-e3e686b6f09f -->
 
 [^chapter6-63]: CB Vaux, Editor’s open Window, *Outing* Vol 14 p 313
 
@@ -345,7 +345,7 @@ Wilt’s complaint about the weight of the “racing machines” is something I 
 
 [^chapter6-74]: *Forest and Stream*, p 412 May 12 1894.  By “rater types” one means boats lilke the Scarecrow, wich were nbot designed as Raters but followed the same style. The typical “canoe yawl” was a small double-ended yawl-rigged centreboard cruising yacht about 18-   long, which developed in north England from about     .
 
-[^chapter6-75]: Gordon K (Sandy) Douglass, “Sixty Years behind the mast – the fox on the water” p
+<!--[^chapter6-75]: Gordon K (Sandy) Douglass, “Sixty Years behind the mast – the fox on the water” p --> 
 
 [^chapter6-75b]: The Rudder, May 1915, p 253. See also the London Times, quoted in American Canoeist, November 1882 p 155.
 

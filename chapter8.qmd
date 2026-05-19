@@ -97,7 +97,7 @@ But while the sandbaggers and other American workboats may have died, they can b
 
 [^chapter8-10]: The Seawanhaka Rule followed the model that Dixon Kemp had been advocating since 1880.  For some years afterward, there was variation in the rules followed by the major New York and Boston clubs, but some all followed the “sail area times length” them. See Traditions and Memories of American yachting, MotorBoating April 1941 p 42 amd May 1941 p 26.
 
-[^chapter8-10a]:“A new association, the New York Yacht Racing Association, was formed which specifically stated that shifting ballast was to be allowed in open boats.”  See [Rule VIII](https://babel.hathitrust.org/cgi/pt?id=loc.ark:/13960/t0vq3sp1w;view=1up;seq=55;size=75). “It was said to have held the largest regattas ever run in New York”:- *Forest and Stream*, Feb 16 1895
+<!--[^chapter8-10a]:“A new association, the New York Yacht Racing Association, was formed which specifically stated that shifting ballast was to be allowed in open boats.”  See [Rule VIII](https://babel.hathitrust.org/cgi/pt?id=loc.ark:/13960/t0vq3sp1w;view=1up;seq=55;size=75). “It was said to have held the largest regattas ever run in New York”:- *Forest and Stream*, Feb 16 1895 --> 
 
 [^chapter8-11]: While there may have been good reasons for the “watermen” not forming new clubs, around this time several small clubs like the Stuyvesant YC (which started when a group of young men bought a rowboat, rigged it with a sail and carried it to the water on a milk wagon) formed their own racing association.  Why did any die-hard supporters of the professional sandbaggers did not do the same?
 
@@ -125,7 +125,7 @@ But while the sandbaggers and other American workboats may have died, they can b
 
 [^chapter8-22]: Stephens Sept 44 MB p 46
 
-[^chapter8-22b]: F&S July 14 1887 p
+<!--[^chapter8-22b]: F&S July 14 1887 p -->
 
 [^chapter8-23]: Yachting In America.
 The Times (London, England), Tuesday, Dec 04, 1883; pg. 8
@@ -136,6 +136,6 @@ The Times (London, England), Tuesday, Dec 04, 1883; pg. 8
 
 [^chapter8-26]: See
 
-[^chapter8-27]: See chapter
+<!-- [^chapter8-27]: See chapter -->
 
 [^chapter8-28]: WP Stephens “Inland yachting – its growth and its future” Outing Vol 38 p 522
